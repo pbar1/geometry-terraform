@@ -26,7 +26,7 @@ GEOMETRY_COLOR_TERRAFORM="magenta"
 ### Symbols
 
 ```sh
-GEOMETRY_SYMBOL_KUBE:-"▰"
+GEOMETRY_SYMBOL_TERRAFORM:-"▰"
 ```
 
 
