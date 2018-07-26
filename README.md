@@ -1,6 +1,6 @@
 # geometry-terraform
 
-Terraform plugin for [geometry][1]. Displays Terraform workspace of the current directory. 
+Terraform plugin for [geometry][1]. Displays the Terraform workspace of the current directory. 
 
 ## Install
 #### zplug
@@ -9,7 +9,7 @@ zplug 'pbar1/geometry-terraform', on:'geometry-zsh/geometry', defer:1
 ```
 
 ## Use
-Add it to your GEOMETRY_PROMPT_PLUGINS environment variable, which should probably be set in your `~/.zshrc` file
+Add it to your `GEOMETRY_PROMPT_PLUGINS` environment variable, which should probably be set in your `~/.zshrc` file
 ```sh
 export GEOMETRY_PROMPT_PLUGINS=(terraform ...)
 ```
